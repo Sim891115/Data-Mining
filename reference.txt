@@ -1,3 +1,0 @@
-使用 Python 和 XGBoost 的特徵重要性和特徵選擇
-https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost/feature-importance-and-feature-selection-with-xgboost-in-python.md
--
