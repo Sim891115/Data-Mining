@@ -1,0 +1,155 @@
+隨機森林：
+
+當深度設為15時，
+Mean Squared Error (MSE): 121.5608670519943
+mean_absolute_percentage_error: 0.31440343761400763
+Root Mean Squared Error (RMSE): 11.025464482369634
+R-squared (R2): 0.24889552532882409
+
+執行時間: 14.5385422706604 秒
+
+當深度設為10時，為最好！！
+Mean Squared Error (MSE): 120.09076269182275
+mean_absolute_percentage_error: 0.31523538825077274
+Root Mean Squared Error (RMSE): 10.958593098195715
+R-squared (R2): 0.2579790568133944
+
+執行時間: 10.08221983909607 秒
+
+當深度設為11時，
+Mean Squared Error (MSE): 122.35668247496226
+mean_absolute_percentage_error: 0.32004474067555244
+Root Mean Squared Error (RMSE): 11.06149548998517
+R-squared (R2): 0.24397831356734567
+
+執行時間: 7.529072523117065 秒
+
+當深度設為5時，
+Mean Squared Error (MSE): 125.58962706528041
+mean_absolute_percentage_error: 0.32579787398303767
+Root Mean Squared Error (RMSE): 11.206677788947106
+R-squared (R2): 0.22400248411629953
+
+執行時間: 5.1571204662323 秒
+
+當深度設為6時，
+Mean Squared Error (MSE): 123.4260088361147
+mean_absolute_percentage_error: 0.32225125160948714
+Root Mean Squared Error (RMSE): 11.10972586683014
+R-squared (R2): 0.2373711229950548
+
+執行時間: 5.97589373588562 秒
+
+當深度設為7時，
+Mean Squared Error (MSE): 122.35668247496226
+mean_absolute_percentage_error: 0.32004474067555244
+Root Mean Squared Error (RMSE): 11.06149548998517
+R-squared (R2): 0.24397831356734567
+
+執行時間: 7.529072523117065 秒
+
+當深度設為8時，
+Mean Squared Error (MSE): 122.35668247496226
+mean_absolute_percentage_error: 0.32004474067555244
+Root Mean Squared Error (RMSE): 11.06149548998517
+R-squared (R2): 0.24397831356734567
+
+執行時間: 7.529072523117065 秒
+
+當深度設為9時，
+Mean Squared Error (MSE): 122.35668247496226
+mean_absolute_percentage_error: 0.32004474067555244
+Root Mean Squared Error (RMSE): 11.06149548998517
+R-squared (R2): 0.24397831356734567
+
+執行時間: 7.529072523117065 秒
+
+KNN：
+當neighbors設為28時，
+Mean Squared Error (MSE): 128.8119737734443
+mean_absolute_percentage_error: 0.32789074148206704
+Root Mean Squared Error (RMSE): 11.349536280106086
+R-squared (R2): 0.20409213722474107
+
+執行時間: 2.607053518295288 秒
+
+當neighbors設為29時，
+Mean Squared Error (MSE): 128.696400213006
+mean_absolute_percentage_error: 0.32770063292182666
+Root Mean Squared Error (RMSE): 11.344443583226372
+R-squared (R2): 0.20480624712296802
+
+執行時間: 2.7520010471343994 秒
+
+當neighbors設為30時，
+Mean Squared Error (MSE): 128.58155576868745
+mean_absolute_percentage_error: 0.3277611101786983
+Root Mean Squared Error (RMSE): 11.33938074890721
+R-squared (R2): 0.20551585193338695
+
+執行時間: 2.6144351959228516 秒
+
+當neighbors設為31時，
+Mean Squared Error (MSE): 128.49021401268783
+mean_absolute_percentage_error: 0.3277552116911782
+Root Mean Squared Error (RMSE): 11.33535239913995
+R-squared (R2): 0.20608023752325189
+
+執行時間: 2.7379140853881836 秒
+
+當neighbors設為100時，
+Mean Squared Error (MSE): 124.81539958667614
+mean_absolute_percentage_error: 0.3267656625255244
+Root Mean Squared Error (RMSE): 11.172081255821412
+R-squared (R2): 0.2287863075431621
+
+執行時間: 3.1776297092437744 秒
+
+當neighbors設為500時，
+Mean Squared Error (MSE): 124.59614372623105
+mean_absolute_percentage_error: 0.3273209836970672
+Root Mean Squared Error (RMSE): 11.162264274161899
+R-squared (R2): 0.23014105320985556
+
+執行時間: 3.333766222000122 秒
+
+當neighbors設為250時，
+Mean Squared Error (MSE): 124.22580142328975
+mean_absolute_percentage_error: 0.3291668662428886
+Root Mean Squared Error (RMSE): 11.145662897436372
+R-squared (R2): 0.23242933699430945
+
+執行時間: 3.993630886077881 秒
+
+當neighbors設為255時，為最好！！！
+Mean Squared Error (MSE): 124.22526267493646
+mean_absolute_percentage_error: 0.3292060818979634
+Root Mean Squared Error (RMSE): 11.14563872889017
+R-squared (R2): 0.23243266583120148
+
+執行時間: 3.790583848953247 秒
+
+當neighbors設為256時，開始往下降
+Mean Squared Error (MSE): 124.24271622478882
+mean_absolute_percentage_error: 0.32923444477989
+Root Mean Squared Error (RMSE): 11.146421678044879
+R-squared (R2): 0.23232482323587522
+
+執行時間: 3.980646848678589 秒
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
