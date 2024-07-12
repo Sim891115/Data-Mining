@@ -1,0 +1,14 @@
+參考資料
+KNN：
+https://blog.csdn.net/qq_43671574/article/details/103557073
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://gist.github.com/psop/c00c1c1de4113c65ed3555d73db1e8ee#file-knn-ipynb
+https://gist.github.com/psop/7c85acac9299707587349f1a1d58ccfc#file-ipynb
+https://medium.com/@search.psop/python%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-14-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E4%B9%8Bknn%E5%AF%A6%E4%BD%9C%E7%AF%87-64071fbd0ac8
+
+RandomForest：
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+SVM：
+https://blog.csdn.net/chenKFKevin/article/details/80786681
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
